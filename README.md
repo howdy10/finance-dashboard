@@ -7,25 +7,6 @@
 The purpose of this application is to track of a budget from different sources
 
 
-## Technologies
-
-| Currenlty used                                                                                                     |
-| [expo Router](https://docs.expo.dev/router/introduction/)    | expo provider native apps for web, ios, and android |
-| [React Navigation](https://reactnavigation.org/)             | Navigation used inside expo router                  |
-| [Icons](https://oblador.github.io/react-native-vector-icons/)| Icons used inside expo router                       |
-
-
-| Future use                                                                                                                 |
-| [React Native Paper](https://callstack.github.io/react-native-paper/) | UI library                                         |
-| [RNUI](https://wix.github.io/react-native-ui-lib/)                    | UI library                                         |
-| [Supabase](https://supabase.com/)                                     | Backend as a service (DB, Auth, function, storage) |
-| [Plaid](https://plaid.com/)                                           | Link to banks                                      |
-| ???                                                                   | Web hosting for web version                        |
-
-## Deployment
-
-TBD
-
 ## Quick start
 
 - Clone the repo: `git clone https://github.com/howdy10/finance-dashboard`
@@ -38,3 +19,29 @@ TBD
 
 - Views are on: `localhost:8081`
 
+## Technologies
+
+Currently used
+| Name                                                         |  Description                                        |
+| ------------------------------------------------------------ | --------------------------------------------------- |
+| [expo Router](https://docs.expo.dev/router/introduction/)    | expo provider native apps for web, ios, and android |
+| [React Navigation](https://reactnavigation.org/)             | Navigation used inside expo router                  |
+| [Icons](https://oblador.github.io/react-native-vector-icons/)| Icons used inside expo router                       |
+
+
+Future use
+| Name                                                                  |  Description                                       |
+| --------------------------------------------------------------------- | -------------------------------------------------- |
+| [React Native Paper](https://callstack.github.io/react-native-paper/) | UI library                                         |
+| [RNUI](https://wix.github.io/react-native-ui-lib/)                    | UI library                                         |
+| [Supabase](https://supabase.com/)                                     | Backend as a service (DB, Auth, function, storage) |
+| [Plaid](https://plaid.com/)                                           | Link to banks                                      |
+| ???                                                                   | Web hosting for web version                        |
+
+## Deployment
+
+TBD
+
+## DB Schema
+
+TBD
